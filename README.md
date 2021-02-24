@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**fab1omendes/fab1omendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm fab1omendes, a ⚡full stack developer student⚡ 
 
-Here are some ideas to get you started:
+🔭 Actually Iḿ starting working in projects with NodeJs, NextJs, React, Typescript and Express.
+🌱 But besides Js i also study Python. And i hope soon be working with Django and MachineLearning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 It looks a little funny try to learning two big technologies, but my first contact with programming was with Java and VisualBasic, then I think it's possible to bee good at both.
+
+📫 How to reach me: 
+email: fabiogomendes@gmail.com
+linkedin: https://www.linkedin.com/in/fabio1omendes/
+
+books :books: Im also a Rocketseat student:
+https://app.rocketseat.com.br/me/fabio-mendes-08650
+
+💬 Ask me about anything about my technologies and job claim. It will be a pleasure to answer.
