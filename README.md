@@ -11,7 +11,7 @@ I'm fab1omendes, a ⚡full stack developer student⚡
 email: fabiogomendes@gmail.com
 linkedin: https://www.linkedin.com/in/fabio1omendes/
 
-books :books: Im also a Rocketseat student:
+:books: Im also a Rocketseat student:
 https://app.rocketseat.com.br/me/fabio-mendes-08650
 
 💬 Ask me about anything about my technologies and job claim. It will be a pleasure to answer.
