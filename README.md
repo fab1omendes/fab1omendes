@@ -9,7 +9,7 @@ I'm fab1omendes, a ⚡full stack developer student⚡
 
 📫 How to reach me: 
 email: fabiogomendes@gmail.com
-linkedin: https://www.linkedin.com/in/fabio1omendes/
+linkedin: https://www.linkedin.com/in/fab1omendes/
 
 :books: Im also a Rocketseat student:
 https://app.rocketseat.com.br/me/fabio-mendes-08650
