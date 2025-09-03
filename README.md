@@ -2,7 +2,7 @@
 
 I'm fab1omendes, a ⚡full stack developer student⚡ 
 
-🔭 Actually Iḿ starting working in projects with NodeJs, NextJs, React, Typescript and Express.
+🔭 Actually I´m starting working in projects with NodeJs, NextJs, React, Typescript and Express.
 🌱 But besides Js i also study Python. And i hope soon be working with Django and MachineLearning.
 
 😄 It looks a little funny try to learning two big technologies, but my first contact with programming was with Java and VisualBasic, then I think it's possible to bee good at both.
