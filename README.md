@@ -1,15 +1,53 @@
-### Hi there 👋
+###  🚀 Hi there, I'm Fabio Mendes!
 
-I'm fab1omendes, a ⚡full stack developer⚡ 
+💻 Full Stack Developer passionate about building scalable and efficient solutions.
 
-🔭 Actually I'm working in projects with NextJs, Typescript, Nestjs and SpringBoot.
-🌱 But besides Js i also study Python. And i hope soon be working with Django and MachineLearning.
+## 🧠 About Me
+🔭 Currently working with Next.js, TypeScript, NestJS, Spring Boot
+🌱 Expanding my skills in Python, Django, and Machine Learning
+⚙️ Experience with backend systems, APIs, databases (PostgreSQL), and infrastructure
+🏥 Working on projects related to health systems, automation, and data processing
+📊 Interested in data analysis and intelligent systems (AI/ML)
+🛠️ Tech Stack
 
-📫 How to reach me: 
-email: fabiogomendes@gmail.com
-linkedin: https://www.linkedin.com/in/fab1omendes/
+## Frontend
+Next.js
+React
+TypeScript
 
-:books: Im also a Rocketseat student:
-https://app.rocketseat.com.br/me/fabio-mendes-08650
+## Backend
+NestJS
+Spring Boot
+Django (learning)
 
-💬 Ask me about anything about my technologies and job claim. It will be a pleasure to answer.
+## Database
+PostgreSQL
+Supabase
+
+## Other Tools & Technologies
+Docker
+Git & GitHub
+REST APIs
+Linux
+
+## 📚 Learning & Growth
+🎓 Student at Rocketseat
+👉 https://app.rocketseat.com.br/me/fabio-mendes-08650
+📖 Currently diving deeper into:
+Machine Learning
+System Architecture
+Backend scalability
+
+## 📫 Contact Me
+✉️ Email: fabiogomendes@gmail.com
+💼 LinkedIn:
+👉 https://www.linkedin.com/in/fab1omendes/
+
+## 💬 Let's Talk!
+Feel free to ask me anything about:
+Full stack development
+Backend architecture
+APIs & integrations
+Real-world systems (especially healthcare 👀)
+
+I’m always open to learning, sharing knowledge, and collaborating on projects 🚀
