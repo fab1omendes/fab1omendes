@@ -9,7 +9,7 @@
 🏥 Working on projects related to health systems, automation, and data processing
 📊 Interested in data analysis and intelligent systems (AI/ML)
 
-###🛠️ Tech Stack
+### 🛠️ Tech Stack
 #### Frontend
 Next.js
 React
