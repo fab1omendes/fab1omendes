@@ -8,27 +8,28 @@
 ⚙️ Experience with backend systems, APIs, databases (PostgreSQL), and infrastructure
 🏥 Working on projects related to health systems, automation, and data processing
 📊 Interested in data analysis and intelligent systems (AI/ML)
-🛠️ Tech Stack
 
-### Frontend
+###🛠️ Tech Stack
+#### Frontend
 Next.js
 React
 TypeScript
-
-### Backend
+Tailwind CSS
+#### Backend
 NestJS
 Spring Boot
-Django (learning)
-
-### Database
+Django
+#### Database
 PostgreSQL
 Supabase
-
-### Other Tools & Technologies
+#### Other Tools & Technologies
 Docker
 Git & GitHub
 REST APIs
 Linux
+
+### ⚡⚡⚡ Relevant Projects ⚡⚡⚡
+🏆 https://fab1omendes.vercel.app/
 
 ### 📚 Learning & Growth
 🎓 Student at Rocketseat
